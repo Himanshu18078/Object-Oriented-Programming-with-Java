@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Object Oriented Programming/1 Class/1 Class.iml" filepath="$PROJECT_DIR$/Object Oriented Programming/1 Class/1 Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object Oriented Programming/2 This Keyword/2 This Keyword.iml" filepath="$PROJECT_DIR$/Object Oriented Programming/2 This Keyword/2 This Keyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object Oriented Programming/3 Static Keyword/3 Static Keyword.iml" filepath="$PROJECT_DIR$/Object Oriented Programming/3 Static Keyword/3 Static Keyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object Oriented Programming/4 Constructor/4 Constructor.iml" filepath="$PROJECT_DIR$/Object Oriented Programming/4 Constructor/4 Constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object Oriented Programming/5 Code Blocks/5 Code Blocks.iml" filepath="$PROJECT_DIR$/Object Oriented Programming/5 Code Blocks/5 Code Blocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics/Conditional Statements/Conditional Statements.iml" filepath="$PROJECT_DIR$/Basics/Conditional Statements/Conditional Statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object Oriented Programming/Object Oriented Programming.iml" filepath="$PROJECT_DIR$/Object Oriented Programming/Object Oriented Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Opps With Java.iml" filepath="$PROJECT_DIR$/.idea/Opps With Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics/Pratice Questions/Pratice Questions.iml" filepath="$PROJECT_DIR$/Basics/Pratice Questions/Pratice Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object Oriented Programming/Pratice Questions/Pratice Questions2.iml" filepath="$PROJECT_DIR$/Object Oriented Programming/Pratice Questions/Pratice Questions2.iml" />
+    </modules>
+  </component>
+</project>
